@@ -1,0 +1,12 @@
+---
+{"publish":true,"created":"2025-08-07T19:37:00.443+02:00","modified":"2025-08-07T19:38:56.706+02:00","cssclasses":""}
+---
+
+This is a table.
+
+
+| Thing                                           | Stuff                 |
+| ----------------------------------------------- | --------------------- |
+| To the right you should see a transcluded note. | 
+This is a transcluded note's message. |
+
