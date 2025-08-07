@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "vansilke.github.io/Frame-State-Quartz",
+    baseUrl: "vansilke.github.io/Frame-State-Quartz/Document-Listing",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
