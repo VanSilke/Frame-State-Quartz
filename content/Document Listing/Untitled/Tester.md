@@ -7,5 +7,5 @@ This is a table.
 
 | Thing                                           | Stuff                                      |
 | ----------------------------------------------- | ------------------------------------------ |
-| To the right you should see a transcluded note. | ![Transcluded Note](Transcluded%20Note.md) |
+| To the right you should see a transcluded note. | ![[Transcluded Note]] |
 
